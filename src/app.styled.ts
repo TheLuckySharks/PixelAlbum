@@ -7,7 +7,7 @@ export const Container = styled.div`
   justify-content: center;
   align-items: center;
   margin: 0 auto;
-  background-color: #00171f; /* Add the background color here */
+  background-color: #1c2336; /* Add the background color here */
 `;
 
 export const GuessContainer = styled.div`

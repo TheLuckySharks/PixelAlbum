@@ -38,7 +38,7 @@ export function InfoPopUp({ onClose }: Props) {
           Contact Us - <a>rockheardle@gmail.com</a>{" "}
           <p>
             Privacy Policy -{" "}
-            <a href="https://www.privacypolicies.com/live/15621ec0-0064-4b6e-b0f4-c9f6c444add7">
+            <a href="https://www.freeprivacypolicy.com/live/0ab2c3ab-47a1-4b7c-aba0-f448f421fde6">
               View
             </a>
           </p>

@@ -27,7 +27,12 @@ export function Result({
       60
   );
   const [isCopied, setIsCopied] = React.useState(false);
-  const textForTry = ["You Rock!", "Nice!", "Woo!", "Phew!"];
+  const textForTry = [
+    "Crystal Clear!",
+    "Sharp Eye!",
+    "Blurry Win!",
+    "Pixel Phew!",
+  ];
 
   const copyResult = React.useCallback(() => {
     navigator.clipboard.writeText(scoreToEmoji(guesses));

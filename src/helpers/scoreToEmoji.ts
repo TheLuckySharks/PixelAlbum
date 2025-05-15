@@ -8,7 +8,7 @@ export function scoreToEmoji(guesses: GuessType[]): string {
     empty: "⬛️",
   };
   const todaysDate = new Date();
-  const prefix = `RockHeardle.com - Pixel ${todaysDate.toLocaleDateString()}`;
+  const prefix = `pixel.RockHeardle.com - Pixel ${todaysDate.toLocaleDateString()}`;
 
   let scoreEmoji = "";
 
