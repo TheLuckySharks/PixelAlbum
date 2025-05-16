@@ -83,4 +83,52 @@ export const songs = [
     ClearcoverUrl:
       "https://live.staticflickr.com/65535/53043211047_bdfb0379d2.jpg",
   },
+  {
+    artist: "Alterbride",
+    name: "Fortress",
+    coverUrl: "https://live.staticflickr.com/65535/54521006297_043cef08d3.jpg",
+    skippedPictures: [
+      "https://live.staticflickr.com/65535/54521006282_bd1d321233.jpg",
+      "https://live.staticflickr.com/65535/54522229850_c9b0106071.jpg",
+      "https://live.staticflickr.com/65535/54522148793_6218e98898.jpg",
+    ],
+    ClearcoverUrl:
+      "https://live.staticflickr.com/65535/54521876071_67d99f4c66.jpg",
+  },
+  {
+    artist: "Slipknot",
+    name: "Slipknot",
+    coverUrl: "https://live.staticflickr.com/65535/54522282880_ff5ff5a67f.jpg",
+    skippedPictures: [
+      "https://live.staticflickr.com/65535/54521060637_704373ffbe.jpg",
+      "https://live.staticflickr.com/65535/54522119484_6c4f0a7c50.jpg",
+      "https://live.staticflickr.com/65535/54522179508_6cf4239175.jpg",
+    ],
+    ClearcoverUrl:
+      "https://live.staticflickr.com/65535/54521928966_d25fac4fed.jpg",
+  },
+  {
+    artist: "Tenacious D",
+    name: "Tenacious D",
+    coverUrl: "https://live.staticflickr.com/65535/54522211348_c0bba42066.jpg",
+    skippedPictures: [
+      "https://live.staticflickr.com/65535/54522211338_395cc6e65d.jpg",
+      "https://live.staticflickr.com/65535/54522211353_8b794b7dab.jpg",
+      "https://live.staticflickr.com/65535/54521092577_d77ffe3263.jpg",
+    ],
+    ClearcoverUrl:
+      "https://live.staticflickr.com/65535/54521961856_583b5809e5.jpg",
+  },
+  {
+    artist: "Five Finger Death Punch",
+    name: "The Way Of The Fist",
+    coverUrl: "https://live.staticflickr.com/65535/54522230253_02a13b0fac.jpg",
+    skippedPictures: [
+      "https://live.staticflickr.com/65535/54522230263_310ee65f93.jpg",
+      "https://live.staticflickr.com/65535/54521111797_ff7662946e.jpg",
+      "https://live.staticflickr.com/65535/54521111802_7f510286f5.jpg",
+    ],
+    ClearcoverUrl:
+      "https://live.staticflickr.com/65535/54522229818_97a09b7593.jpg",
+  },
 ];
